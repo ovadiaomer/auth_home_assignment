@@ -1,4 +1,4 @@
-# ESH Home Assignment
+# Home Assignment
 
 ## Overview
 
